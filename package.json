@@ -1,0 +1,9 @@
+{
+  "name": "logistics-warehouse-news",
+  "version": "1.0.0",
+  "description": "물류창고 업계 최신 뉴스 자동 검색 페이지 (물류신문 + 구글 뉴스)",
+  "private": true,
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
